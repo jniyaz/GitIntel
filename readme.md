@@ -1,4 +1,4 @@
-# GitHub Profile Finder
+# GitIntel
 
 A modern, fast, and responsive GitHub developer & repository intelligence application built with **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS v4**, and **shadcn/ui**.
 
