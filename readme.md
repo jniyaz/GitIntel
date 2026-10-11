@@ -1,8 +1,6 @@
 # GitIntel
 
-A modern, fast, and responsive GitHub developer & repository intelligence application built with **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS v4**, and **shadcn/ui**.
-
-Originally inspired by Brad Traversy's classic jQuery/Bootstrap hobby project, now refactored from scratch into a full-stack App Router experience.
+A responsive GitHub developer & repository intelligence application built with **Next.js**.
 
 ---
 
