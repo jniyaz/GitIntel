@@ -12,8 +12,7 @@ function getHeaders(tokenOverride?: string): HeadersInit {
   const headers: Record<string, string> = {
     Accept: "application/vnd.github+json",
     "User-Agent": "GitHub-Profile-Finder-App",
-    "X-GitHub-Api-Version": "2022-11-28",
-    "X-Requested-With": "XMLHttpRequest",
+    "X-GitHub-Api-Version": "2022-11-28"
   };
 
   const token = tokenOverride !== undefined ? tokenOverride : process.env.GITHUB_TOKEN;
