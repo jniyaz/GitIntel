@@ -13,6 +13,7 @@ function getHeaders(tokenOverride?: string): HeadersInit {
     Accept: "application/vnd.github+json",
     "User-Agent": "GitHub-Profile-Finder-App",
     "X-GitHub-Api-Version": "2022-11-28",
+    "X-Requested-With": "XMLHttpRequest",
   };
 
   const token = tokenOverride !== undefined ? tokenOverride : process.env.GITHUB_TOKEN;
